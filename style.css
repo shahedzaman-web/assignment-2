@@ -109,3 +109,10 @@
     background-color: #333e4f;
     color: #9ca9be;
 }
+
+.img-store {
+    margin-top: -22px;
+    margin-left: -22px;
+    width: 150px;
+    height: 80px;
+}
